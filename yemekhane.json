@@ -1,148 +1,8 @@
 {
-    "1 Kasım 2021 Pazartesi": [
-        "KURU FASULYE",        
-        "PİRİNÇ PİLAVI",       
-        "KURU CACIK",
-        "MEYVE",
-        "(705.1 kcal)"
-    ],
-    "2 Kasım 2021 Salı": [
-        "ORMAN KEBABI",
-        "MAKARNA",
-        "YEŞİL SALATA",
-        "MEYVE",
-        "(816.3 kcal) "
-    ],
-    "3 Kasım 2021 Çarşamba": [
-        "KEREVİZ YEMEĞİ",
-        "BULGUR PİLAVI",
-        "YOĞURT",
-        "TATLI",
-        "(718.6 kcal) "
-    ],
-    "4 Kasım 2021 Perşembe": [
-        "SEBZELİ PİLİÇ BAGET",
-        "PİRİNÇ PİLAVI",
-        "MEVSİM SALATA",
-        "MEYVE",
-        "(925.2 kcal)"
-    ],
-    "5 Kasım 2021 Cuma": [
-        "EKŞİLİ KÖFTE",
-        "PENNE MAKARNA",
-        "YOĞURT",
-        "MEYVE",
-        "(860.8 kcal)"
-    ],
-    "8 Kasım 2021 Pazartesi": [
-        "YEŞİL MERCİMEK YEMEĞİ",
-        "SPAGHETTİ MAKARNA",
-        "YOĞURT",
-        "TATLI",
-        "(818.5 kcal)"
-    ],
-    "9 Kasım 2021 Salı": [
-        "MACAR GULAŞ",
-        "BULGUR PİLAVI",
-        "PİYAZ",
-        "MEYVE",
-        "(662.1 kcal)"
-    ],
-    "10 Kasım 2021 Çarşamba": [
-        "EZOGELİN ÇORBA",
-        "KARNABAHAR YEMEĞİ",
-        "PİRİNÇ PİLAVI",
-        "MEYVE",
-        "(766.1 kcal)"
-    ],
-    "11 Kasım 2021 Perşembe": [
-        "ROSTO KÖFTE + PÜRE",
-        "ARPA ŞEHRİYE PİLAVI",
-        "YEŞİL SALATA",
-        "MEYVE",
-        "(662.1 kcal)"
-    ],
-    "12 Kasım 2021 Cuma": [
-        "FIRINDA KEKİKLİ PİLİÇ FLETO",
-        "DOMATES SOSLU MAKARNA",
-        "HAVUÇ TARATOR",
-        "MEYVE",
-        "(898 kcal)"
-    ],
-    "15 Kasım 2021 Pazartesi": [
-        "NOHUT YEMEĞİ",
-        "PİRİNÇ PİLAVI",
-        "TURŞU",
-        "MEYVE",
-        "(571.7 kcal)"
-    ],
-    "16 Kasım 2021 Salı": [
-        "ETLİ MEVSİM TÜRLÜ BULGUR",
-        "PİLAVI",
-        "BROKOLİ SALATASI",
-        "MEYVE",
-        "(880.9 kcal)"
-    ],
-    "17 Kasım 2021 Çarşamba": [
-        "NANELİ YOĞURT ÇORBASI",
-        "FIRINDA TAVUK BAGET",
-        "DOMATESLİ MAKARNA",
-        "TATLI",
-        "(917.8 kcal)"
-    ],
-    "18 Kasım 2021 Perşembe": [
-        "TERBİYELİ KÖFTE",
-        "ERİŞTE",
-        "MEVSİM SALATA",
-        "MEYVE",
-        "(860.8 kcal) "
-    ],
-    "19 Kasım 2021 Cuma": [
-        "ZEYTİNYAĞLI PIRASA YEMEĞİ",
-        "BULGUR PİLAVI",
-        "KURU CACIK",
-        "MEYVE",
-        "(691.9 kcal)"
-    ],
-    "22 Kasım 2021 Pazartesi ": [
-        "BARBUNYA YEMEĞİ",
-        "ERİŞTE",
-        "YOĞURT",
-        "TATLI",
-        "(853.5 kcal)"
-    ],
-    "23 Kasım 2021 Salı": [
-        "MANTAR ET SOTE",
-        "ARPA ŞEHRİYE PİLAVI",
-        "MEVSİM SALATASI",
-        "MEYVE",
-        "(883.9 kcal)"
-    ],
-    "24 Kasım 2021 Çarşamba": [
-        "PATATES YEMEĞİ",
-        "BULGUR PİLAVI",
-        "YOĞURT",
-        "MEYVE",
-        "(1073.9 kcal)"
-    ],
-    "25 Kasım 2021 Perşembe": [
-        "DOMATES SOSLU TEKİRDAĞ KÖFTE",
-        "MAKARNA",
-        "BROKOLİ SALATASI",
-        "MEYVE",
-        "(922.8 kcal)"
-    ],
-    "26 Kasım 2021 Cuma": [
-        "MANTAR SOSLU TAVUK BUT",
-        "PİRİNÇ PİLAVI",
-        "YEŞİL SALATA",
-        "MEYVE",
-        "(922.8 kcal)"
-    ],
     "29 Kasım 2021 Pazartesi": [
         "KURU FASULYE",
-        "PİRİNÇ PİLAVI",
-        "TURŞU",
+        "PİRİNÇ PİLAVI",        
+        "YOĞURT",
         "TATLI",
         "(705.1 kcal)"
     ],
@@ -173,5 +33,145 @@
         "HAVUÇ TARATOR",
         "MEYVE",
         "(925.2 kcal)"
+    ],
+    "6 Aralık 2021 Pazartesi": [
+        "BARBUNYA YEMEĞİ",
+        "PİRİNÇ PİLAVI",
+        "YOĞURT",
+        "TATLI",
+        "(1404.1 kcal)"
+    ],
+    "7 Aralık 2021 Salı": [
+        "MERCİMEK ÇORBASI",
+        "PATLICAN KEBABI",
+        "YEŞİL MERCİMEKLİ BULGUR PİLAVI",    
+        "MEVSİM SALATA",
+        "(926 kcal)"
+    ],
+    "8 Aralık 2021 Çarşamba": [
+        "TAVUKLU ŞEHRİYE ÇORBASI",
+        "KARNABAHAR GRATEN",
+        "PENNE MAKARNA",
+        "TATLI",
+        "(1168 kcal)"
+    ],
+    "9 Aralık 2021 Perşembe": [
+        "YAYLA ÇORBASI",
+        "DOM. S. IZGARA KÖFTE",
+        "MAKARNA",
+        "MEYVE",
+        "( 972 kcal)"
+    ],
+    "10 Aralık 2021 Cuma": [
+        "EZOGELİN ÇORBASI",
+        "FIRINDA PİLİÇ BUT",
+        "PİRİNÇ PİLAVI",
+        "BROKOLİ SALATASI",
+        "(110 kcal)"
+    ],
+    "13 Aralık 2021 Pazartesi": [
+        "NOHUT YEMEĞİ",
+        "PİRİNÇ PİLAVI",
+        "TURŞU",
+        "PORTAKAL",
+        "(1102 kcal)"
+    ],
+    "14 Aralık 2021 Salı": [
+        "ANDOLOZ ÇORBASI",
+        "KEREVİZ YEMEĞİ",
+        "DOM. SOS. SPAGETTİ",
+        "TATLI",
+        "( 1326 kcal)"
+    ],
+    "15 Aralık 2021 Çarşamba": [
+        "İZMİR KÖFTE",
+        "ERİŞTE",
+        "YOĞURT",
+        "MEYVE",
+        "(1083 kcal)"
+    ],
+    "16 Aralık 2021 Perşembe": [
+        "TUTMAÇ ÇORBASI",
+        "TERBİYELİ PİLİÇ BAGET",
+        "ARPA ŞEHRİYE PİLAVI",
+        "TATLI",
+        "( 1438 kcal)"
+    ],
+    "17 Aralık 2021 Cuma": [
+        "MAHLÛTA ÇORBASI",
+        "ÇİFTLİK KEBABI",
+        "BULGUR PİLAVI",
+        "HAVUÇ TARATOR",
+        "( 1059 kcal)"
+    ],
+    "20 Aralık 2021 Pazartesi": [
+        "KURU FASULYE",
+        "ERİŞTE",
+        "YOĞURT",
+        "TATLI",
+        "(1297 kcal)"
+    ],
+    "21 Aralık 2021 Salı": [
+        "EZOGELİN ÇORBASI",
+        "ZEYTİNYAĞLI PIRASA",
+        "FIRIN MAKARNA",
+        "MEYVE",
+        "(1080 kcal)"
+    ],
+    "22 Aralık 2021 Çarşamba": [
+        "YAYLA ÇORBASI",
+        "MACAR GULAŞ+PÜRE",
+        "YEŞİL MERCİMEKLİ BULGUR PİLAVI",    
+        "MEYVE",
+        "(1146 kcal)"
+    ],
+    "23 Aralık 2021 Perşembe": [
+        "MERCİMEK ÇORBASI",
+        "IZGARA PİLİÇ FLETO",
+        "PİRİNÇ PİLAVI",
+        "AYRAN",
+        "(871 kcal)"
+    ],
+    "24 Aralık 2021 Cuma": [
+        "TARHANA ÇORBASI",
+        "TEKİRDAĞ KÖFTE+GARN",
+        "SPAGETTİ MAKARNA",
+        "MEVSİM SALATA",
+        "(1031kcal)"
+    ],
+    "27 Aralık 2021 Pazartesi": [
+        "BARBUNYA YEMEĞİ",
+        "PİRİNÇ PİLAVI",
+        "TURŞU",
+        "TATLI",
+        "(1404 kcal)"
+    ],
+    "28 Aralık 2021 Salı": [
+        "ŞEHRİYE ÇORBASI",
+        "TAS KEBABI",
+        "BULGUR PİLAVI",
+        "YOĞURT",
+        "(1062 kcal)"
+    ],
+    "29 Aralık 2021 Çarşamba": [
+        "TÜRLÜ YEMEĞİ",
+        "PENNE MAKARNA",
+        "KIRMIZIBİBER TARATOR",
+        "TATLI",
+        "(1046 kcal)"
+    ],
+    "30 Aralık 2021 Perşembe": [
+        "YAYLA ÇORBASI",
+        "FIRIN PİLİÇ BAGET",
+        "MAKARNA",
+        "MEVSİM SALATA",
+        "(1116 kcal)"
+    ],
+    "31 Aralık 2021 Cuma": [
+        "K. MANTAR ÇORBASI",
+        "PİRİNÇ PİLAVI",
+        "İZMİR KÖFTE",
+        "TATLI",
+        "(1460 kcal)"
     ]
 }
