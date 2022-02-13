@@ -1,154 +1,14 @@
 {
-    "3 Ocak 2022 Pazartesi": [
-        "KURU FASULYE",
-        "PİRİNÇ PİLAVI",
-        "KARIŞIK TURŞU",
-        "MEYVE",
-        "1328 kcal."
-    ],
-    "4 Ocak 2022 Salı": [
-        "MERCİMEK ÇORBASI",
-        "PIRASA GRATEN",
-        "DOMATES SOSLU MAKARNA",
-        "YOĞURT",
-        "1046 kcal."
-    ],
-    "5 Ocak 2022 Çarşamba": [
-        "DOMATES ÇORBASI",
-        "PİLİÇ SOTE",
-        "ŞEH. BULGUR PİLAVI",
-        "MEVSİM SALATA",
-        "986 kcal."
-    ],
-    "6 Ocak 2022 Perşembe": [
-        "TERBİYELİ KÖFTE",
-        "ERİŞTE",
-        "BROKOLİ SALATASI",
-        "MEYVE",
-        "1038 kcal."
-    ],
-    "7 Ocak 2022 Cuma": [
-        "EZOGELİN ÇORBASI",
-        "FIRINDA PİLİÇ BUT",
-        "ARPA ŞEH. PİRİNÇ PİLAVI",
-        "MEVSİM SALATA",
-        "1019 kcal."
-    ],
-    "10 Ocak 2022 Pazartesi": [
-        "NOHUT YEMEĞİ",
-        "BULGUR PİLAVI",
-        "YOĞURT",
-        "TATLI",
-        "1366 kcal."
-    ],
-    "11 Ocak 2022 Salı": [
-        "MERCİMEK ÇORBASI",
-        "MEVSİM TÜRLÜ (etsiz)",
-        "PİRİNÇ PİLAVI",
-        "MEYVE",
-        "1012 kcal."
-    ],
-    "12 Ocak 2022 Çarşamba": [
-        "ŞEHRİYE ÇORBASI",
-        "PİLİÇ SOTE",
-        "MAKARNA",
-        "MEYVE",
-        "770 kcal."
-    ],
-    "13 Ocak 2022 Perşembe": [
-        "MANTARLI ET SOTE",
-        "ARPA ŞEHRİYE PİLAVI",
-        "MEVSİM SALATA",
-        "MEYVE",
-        "959 kcal."
-    ],
-    "14 Ocak 2022 Cuma": [
-        "YAYLA ÇORBASI",
-        "FIRIN PİLİÇ BAGET",
-        "MAKARNA",
-        "MEYVE",
-        "952 kcal."
-    ],
-    "17 Ocak 2022 Pazartesi": [
-        "YEŞİL MERCİMEK YEMEĞİ",
-        "TEL ŞEH. PİRİNÇ PİLAVI",
-        "YOĞURT",
-        "MEYVE",
-        "980 kcal."
-    ],
-    "18 Ocak 2022 Salı": [
-        "TAS KEBABI",
-        "BULGUR PİLAVI",
-        "KARIŞIK TURŞU",
-        "MEYVE",
-        "1222 kcal."
-    ],
-    "19 Ocak 2022 Çarşamba": [
-        "DOMATES ÇORBASI",
-        "ISPANAK YEMEĞİ",
-        "MAKARNA",
-        "YOĞURT",
-        "880 kcal."
-    ],
-    "20 Ocak 2022 Perşembe": [
-        "ANDALOZ ÇORBASI",
-        "SEBZELİ MİTİTE KÖFTE",
-        "BULGUR PİLAVI",
-        "TATLI",
-        "1233 kcal."
-    ],
-    "21 Ocak 2022 Cuma": [
-        "MAHLÛTA ÇORBASI",
-        "PİLİÇ IZGARA",
-        "PİRİNÇ PİLAVI",
-        "MEVSİM SALATA",
-        "904 kcal."
-    ],
-    "24 Ocak 2022 Pazartesi": [
-        "BARBUNYA YEMEĞİ",
-        "ERİŞTE",
-        "KARIŞIK TURŞU",
-        "TATLI",
-        "1315 kcal."
-    ],
-    "25 Ocak 2022 Salı": [
-        "EZOGELİN ÇORBASI",
-        "KARNABAHAR YEMEĞİ",
-        "DOMATES S. MAKARNA",
-        "MEYVE",
-        "894 kcal."
-    ],
-    "26 Ocak 2022 Çarşamba": [
-        "ŞEHRİYE ÇORBASI",
-        "ORMAN KEBABI",
-        "BULGUR PİLAVI",
-        "MEYVE",
-        "1095 kcal."
-    ],
-    "27 Ocak 2022 Perşembe": [
-        "MERCİMEK ÇORBASI",
-        "SEBZELİ TAVUK SOTE",
-        "ARPA ŞEH. PİRİNÇ PİLAVI",
-        "MEYVE",
-        "996 kcal."
-    ],
-    "28 Ocak 2022 Cuma": [
-        "TARHANA ÇORBASI",
-        "ROSTO KÖFTE+PÜRE",
-        "MEVSİM SALATA",
-        "TATLI",
-        "1134 kcal."
-    ],
     "31 Ocak 2022 Pazartesi": [
         "NOHUT YEMEĞİ",
         "ŞEHRİYELİ PİRİNÇ PİLAVI",
         "YOĞURT",
         "TATLI",
-        "1268 kcal ."
+        "1268 kcal."
     ],
     "1 Şubat 2022 Salı": [
         "MANTAR ÇORBASI",
-        "MEVSİM TÜRLÜ (etsiz)",
+        "MEVSİM TÜRLÜ",
         "SPAGETTİ MAKARNA",
         "MEYVE",
         "962 kcal."
@@ -173,5 +33,145 @@
         "BULGUR PİLAVI",
         "MEVSİM SALATA",
         "1041 kcal."
+    ],
+    "7 Şubat 2022 Pazartesi": [
+        "KURU FASULYE",
+        "PİRİNÇ PİLAVI",
+        "YOĞURT",
+        "TATLI",
+        "1430 kcal."
+    ],
+    "8 Şubat 2022 Salı": [
+        "ŞEHRİYE ÇORBASI",
+        "MACAR GULAŞ+PÜRE",
+        "MEVSİM SALATA",
+        "MEYVE",
+        "977 kcal."
+    ],
+    "9 Şubat 2022 Çarşamba": [
+        "MERCİMEK ÇORBASI",
+        "ZEYTİNYAĞLI KEREVİZ",
+        "FIRIN MAKARNA",
+        "TATLI",
+        "1447 kcal."
+    ],
+    "10 Şubat 2022 Perşembe": [
+        "DOMATES ÇORBASI",
+        "ROSTO KÖFTE+PÜRE",
+        "KURU CACIK",
+        "MEYVE",
+        "943 kcal."
+    ],
+    "11 Şubat 2022 Cuma": [
+        "YAYLA ÇORBASI",
+        "FIRINDA PİLİÇ BONFİLE",
+        "ŞEHRİYELİ PİRİNÇ PİLAVI",
+        "MEYVE",
+        "1174 kcal."
+    ],
+    "14 Şubat 2022 Pazartesi": [
+        "BARBUNYA YEMEĞİ",
+        "ARPA ŞEHRİYE PİLAVI",
+        "YOĞURT",
+        "MEYVE",
+        "1145 kcal."
+    ],
+    "15 Şubat 2022 Salı": [
+        "SEBZE ÇORBASI",
+        "TAS KEBABI",
+        "PİRİNÇ PİLAVI",
+        "MEYVE",
+        "1024 kcal."
+    ],
+    "16 Şubat 2022 Çarşamba": [
+        "DOMATES ÇORBASI",
+        "ZEYTİNYAĞLI PIRASA",
+        "DOMATES SOSLU MAKARNA",
+        "YOĞURT",
+        "1215 kcal."
+    ],
+    "17 Şubat 2022 Perşembe": [
+        "ANDALOZ ÇORBASI",
+        "KADINBUDU KÖFTE+PÜRE",
+        "MEVSİM SALATA",
+        "TATLI",
+        "1436 kcal."
+    ],
+    "18 Şubat 2022 Cuma": [
+        "EZOGELİN ÇORBASI",
+        "SEBZELİ HAŞLAMA BAGET",
+        "PİRİNÇ PİLAVI",
+        "YEŞİL SALATA",
+        "1144 kcal."
+    ],
+    "21 Şubat 2022 Pazartesi": [
+        "YEŞİL MERCİMEK YEMEĞİ",
+        "ERİŞTE",
+        "KARIŞIK TURŞU",
+        "MEYVE",
+        "1385 kcal."
+    ],
+    "22 Şubat 2022 Salı": [
+        "EZOGELİN ÇORBASI",
+        "ET SOTE",
+        "BULGUR PİLAVI",
+        "YOĞURT",
+        "992 kcal."
+    ],
+    "23 Şubat 2022 Çarşamba": [
+        "ŞEHRİYE ÇORBASI",
+        "ZEYTİNYAĞLI KARNABAHAR YEMEĞİ",
+        "FIRIN MAKARNA",
+        "TATLI",
+        "1469 kcal."
+    ],
+    "24 Şubat 2022 Perşembe": [
+        "MERCİMEK ÇORBASI",
+        "İZMİR KÖFTE",
+        "ARPA ŞEH. PİRİNÇ PİLAVI",
+        "MEYVE",
+        "1191 kcal."
+    ],
+    "25 Şubat 2022 Cuma": [
+        "DOMATES ÇORBASI",
+        "ÇITIR PİLİÇ + PİRİNÇ PİLAVI",
+        "AYRAN",
+        "TATLI",
+        "1468 kcal."
+    ],
+    "28 Şubat 2022 Pazartesi": [
+        "NOHUT YEMEĞİ",
+        "ŞEHRİYELİ PİRİNÇ PİLAVI",
+        "YOĞURT",
+        "TATLI",
+        "1436 kcal."
+    ],
+    "1 Mart 2022 Salı": [
+        "MANTAR ÇORBASI",
+        "ORMAN KEBABI",
+        "SPAGETTİ MAKARNA",
+        "MEYVE",
+        "860 kcal."
+    ],
+    "2 Mart 2022 Çarşamba": [
+        "TUTMAÇ ÇORBASI",
+        "PATATES YEMEĞİ",
+        "BULGUR PİLAVI",
+        "MEVSİM SALATA",
+        "1246 kcal."
+    ],
+    "3 Mart 2022 Perşembe": [
+        "EKŞİLİ KÖFTE",
+        "ERİŞTE",
+        "BROKOLİ SALATASI",
+        "MEYVE",
+        "1073 kcal."
+    ],
+    "4 Mart 2022 Cuma": [
+        "MERCİMEK ÇORBASI",
+        "FIRINDA PİLİÇ BAGET",
+        "BULGUR PİLAVI",
+        "MEVSİM SALATA",
+        "996 kcal."
     ]
 }
